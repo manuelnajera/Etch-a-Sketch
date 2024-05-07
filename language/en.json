@@ -1,0 +1,10 @@
+{
+	"en": "English",
+	"es": "Spanish",
+	"title": "Etch-a-Sketch",
+	"subtitle": "Create a space for you to draw!",
+	"start": "Start",
+	"restart": "Restart",
+	"createGrid": "Modify drawing space",
+	"draw": "Draw anything you want!"
+}
